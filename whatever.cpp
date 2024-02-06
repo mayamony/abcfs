@@ -5,7 +5,9 @@ using namespace std;
 const int N=1000000;
 int A[N];
 int main(){
-    
+    int a,b;cin>>a>>b;
+    cout<<a<<" "<<b<<'\n';
+  
   
     
 }
